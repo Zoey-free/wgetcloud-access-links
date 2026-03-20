@@ -66,5 +66,13 @@ Windows / macOS
 
 本頁將持續更新可用入口與相關資訊。
 
-🔍 Keywords
-WgetCloud, WgetCloud access links, WgetCloud official website, WgetCloud entry, proxy service, global nodes, connectivity tools
+
+## 🔍 Keywords
+- WgetCloud官網  
+- WgetCloud  
+- WgetCloud access links  
+- WgetCloud official website  
+- WgetCloud entry  
+- proxy service  
+- global nodes  
+- connectivity tools  
