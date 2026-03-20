@@ -11,7 +11,7 @@ This repository provides updated WgetCloud access links, entry points, and conne
 https://wgetcloud.ltd  
 
 👉 若无法打开，可使用此入口  
-https://invite.wgetcloud.ltd/auth/register?code=YcO3mZ  
+https://bit.ly/WgetCloud-Links
 
 📌 说明：  
 以上为当前可用入口，建议优先使用官方网站。
