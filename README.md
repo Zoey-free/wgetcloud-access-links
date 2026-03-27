@@ -8,7 +8,7 @@ This repository provides updated WgetCloud access links, entry points, and conne
 ## 🌐 官方网站
 
 👉 官方网站  
-https://wgetcloud.ltd  
+[点击进入WgetCloud官网](https://invite.wgetcloud.ltd/auth/register?code=YcO3mZ)
 
 👉 若无法打开，可使用此入口  
 https://bit.ly/WgetCloud-Links
